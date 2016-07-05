@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<main_menu>
+    <menu_info>
+	<title>[I][COLOR gold][B]PalcoTV 0.3.5[/B] - </title>
+	<thumbnail>http://oi57.tinypic.com/35i3vo2.jpg</thumbnail>
+	<fanart>http://wallnoy.com/wp-content/uploads/2014/10/4k_abstract_wallpaper_6.jpg</fanart>	
+	<date>[I][COLOR lightyellow](juarrox@gmail.com)[/COLOR][/I]</date>
+	<credits>JuarroX</credits>
+    </menu_info>
+	<channel>
+		<name>[COLOR red]Mi biblioteca[/COLOR]</name>
+		<thumbnail>http://oi57.tinypic.com/35i3vo2.jpg</thumbnail>
+		<fanart>http://wallnoy.com/wp-content/uploads/2014/10/4k_abstract_wallpaper_6.jpg</fanart>
+		<action>myplaylists_m3u</action>
+		<last_update>28.05.2016</last_update>
+		<url>http://ohmichael.net16.net/palco/PalcoTV-0.3.5.xml</url>	
+	</channel>
+
+        <channel>
+			<name>Agenda TV</name>
+			<thumbnail>http://oi57.tinypic.com/35i3vo2.jpg</thumbnail>
+			<fanart>http://wallnoy.com/wp-content/uploads/2014/10/4k_abstract_wallpaper_6.jpg</fanart>
+			<action>xml_lists</action>
+			<last_update>28.05.2016</last_update>
+			<url>http://ohmichael.net16.net/palco/PalcoTV-0.3.5.xml</url>
+			
+			<subchannel>
+				<name>Live On Sat</name>
+				<thumbnail>http://liveonsat.com/images/LJ_banner_main_FLAG.jpg</thumbnail>
+				<fanart>http://wallnoy.com/wp-content/uploads/2014/10/4k_abstract_wallpaper_6.jpg</fanart>
+				<action>los0</action>
+				<url>.</url>       
+			</subchannel>				
+			
+			<subchannel>
+				<name>Fútbol en la tele</name>
+				<thumbnail>http://oi57.tinypic.com/35i3vo2.jpg</thumbnail>
+				<fanart>http://wallnoy.com/wp-content/uploads/2014/10/4k_abstract_wallpaper_6.jpg</fanart>
+				<action>agendatv</action>
+				<url>http://www.futbolenlatele.com</url>       
+			</subchannel>
+
+			<subchannel>
+				<name>Calcio in TV</name>
+				<thumbnail>http://oi57.tinypic.com/35i3vo2.jpg</thumbnail>
+				<fanart>http://wallnoy.com/wp-content/uploads/2014/10/4k_abstract_wallpaper_6.jpg</fanart>
+				<action>agendatv</action>
+				<url>http://www.calciointv.com/</url>  
+			</subchannel>
+
+			<subchannel>
+				<name>Football on UK TV</name>
+				<thumbnail>http://oi57.tinypic.com/35i3vo2.jpg</thumbnail>
+				<fanart>http://wallnoy.com/wp-content/uploads/2014/10/4k_abstract_wallpaper_6.jpg</fanart>
+				<action>agendatv</action>
+				<url>http://www.footballonuktv.com/</url>      
+			</subchannel>          
+		   
+			<subchannel>
+					<name>Futbolenlatv.com [COLOR lightyellow][I](HOY)[/I][/COLOR]</name>
+					<thumbnail>http://oi60.tinypic.com/2hojq6d.jpg</thumbnail>
+					<fanart>fanart.png</fanart>
+					<action>futbolenlatv</action>
+					<url>http://agenda.futbolenlatv.com/m?deporte=agenda</url>     
+			</subchannel>
+
+			<subchannel>
+				<name>Futbolenlatv.com [COLOR lightyellow][I](MAÑANA)[/I][/COLOR]</name>
+				<thumbnail>http://oi57.tinypic.com/35i3vo2.jpg</thumbnail>
+				<fanart>http://wallnoy.com/wp-content/uploads/2014/10/4k_abstract_wallpaper_6.jpg</fanart>
+				<action>futbolenlatv_manana</action>
+				<url>http://agenda.futbolenlatv.com/m?deporte=agenda</url>     
+			</subchannel>      
+
+			<subchannel>
+				<name>EHF.com [COLOR lightyellow][I](Balonmano)[/I][/COLOR]</name>
+				<thumbnail>http://oi57.tinypic.com/35i3vo2.jpg</thumbnail>
+				<fanart>http://wallnoy.com/wp-content/uploads/2014/10/4k_abstract_wallpaper_6.jpg</fanart>
+				<action>epg_ehf</action>
+				<url>http://www.eurohandball.com/2015/tv-guide/</url>     
+			</subchannel>  
+
+			<subchannel>
+				<name>[COLOR lightyellow]¿Qué ver [B]ahora[/B]?[/COLOR]</name>
+				<thumbnail>http://img.informador.com.mx/biblioteca/imagen/370x277/514/513754.jpg</thumbnail>
+				<fanart>http://www.mygeekconfessions.com/wp-content/uploads/2012/03/Poltergeist-wallpaper.jpg</fanart>
+				<action>epg_verahora</action>
+				<url>http://www.formulatv.com/programacion/</url>     
+			</subchannel> 
+
+			<subchannel>
+				<name>[COLOR lightyellow]¿Qué ver [B]después[/B]?[/COLOR]</name>
+				<thumbnail>http://img.informador.com.mx/biblioteca/imagen/370x277/514/513754.jpg</thumbnail>
+				<fanart>http://www.mygeekconfessions.com/wp-content/uploads/2012/03/Poltergeist-wallpaper.jpg</fanart>
+				<action>epg_verluego</action>
+				<url>http://www.formulatv.com/programacion/</url>     
+			</subchannel> 
+
+			<subchannel>
+				<name>[COLOR lightyellow]¿Qué ver [B]más tarde[/B]?[/COLOR]</name>
+				<thumbnail>http://img.informador.com.mx/biblioteca/imagen/370x277/514/513754.jpg</thumbnail>
+				<fanart>http://www.mygeekconfessions.com/wp-content/uploads/2012/03/Poltergeist-wallpaper.jpg</fanart>
+				<action>epg_vermastarde</action>
+				<url>http://www.formulatv.com/programacion/</url>     
+			</subchannel> 
+        </channel>
+		
+    <channel>
+		<name>[COLOR red]Configuración[/COLOR]</name>
+		<thumbnail>http://oi57.tinypic.com/35i3vo2.jpg</thumbnail>
+		<fanart>http://p1.pichost.me/i/29/1522138.jpg</fanart>
+		<action>open_settings</action>
+		<last_update>28.05.2016</last_update>
+		<url>.</url>	
+	</channel>
+	
+	<channel>
+		<name>Samples</name>
+		<thumbnail>http://oi57.tinypic.com/35i3vo2.jpg</thumbnail>
+		<fanart>http://p1.pichost.me/i/29/1522138.jpg</fanart>
+		<action>xml_lists</action>
+		<last_update>28.05.2016</last_update>
+		<url>http://ohmichael.net16.net/palco/PalcoTV-0.3.5.xml</url>
+		
+		<subchannel>
+			<name>[COLOR white][I]Big Buck Bunny[/I][/COLOR]</name>
+			<thumbnail>http://upload.wikimedia.org/wikipedia/commons/c/c5/Big_buck_bunny_poster_big.jpg</thumbnail>
+			<fanart>https://peach.blender.org/wp-content/uploads/bbb-splash.png</fanart>
+			<action>getfile_http</action>
+			<url>https://dl.dropboxusercontent.com/u/8036850/PalcoTV/Big_Buck_Bunny.m3u</url>
+		</subchannel>
+		
+		<subchannel>
+			<name>[COLOR white][I]Samples [COLOR gold][B]4K[/B][/I][/COLOR]</name>
+			<thumbnail>http://satcesc.com/web/wp-content/uploads/2014/05/ultra-4k.png</thumbnail>
+			<fanart>http://axeetech.com/wp-content/uploads/2014/09/468739.jpg</fanart>
+			<action>getfile_http</action>
+			<url>https://dl.dropboxusercontent.com/u/8036850/PalcoTV/Samples-4K.m3u</url>
+		</subchannel>
+		
+		<subchannel>
+			<name>[COLOR white][I]Samples [COLOR gold][B]EPG-TXT[/B][/I][/COLOR]</name>
+			<thumbnail>https://upload.wikimedia.org/wikipedia/en/1/10/TV_Guide_Network.png</thumbnail>
+			<fanart>http://c.fastcompany.net/multisite_files/fastcompany/poster/2014/06/3031870-poster-p-2-rising-star-abcs-new-singing-contest-is-a-hypothesis-for-the-future-of-television.jpg</fanart>
+			<action>getfile_http</action>
+			<url>https://dl.dropboxusercontent.com/u/8036850/PalcoTV/Samples-EPGTXT.m3u</url>
+		</subchannel>
+     </channel>
+</main_menu>

@@ -1,0 +1,100 @@
+#EXTM3U
+
+
+
+
+
+#EXTINF:-1,#[CR],tvg-wall="https://4.bp.blogspot.com/-6D66zT_WBLo/VsZukYTKIcI/AAAAAAAAB2Q/MW2e1jdcK5c/s0-r/12700940642bae92e159610559b7d4b13e051ecb.jpg",tvg-logo="http://i60.tinypic.com/6p2b8z.png"
+
+
+#EXTINF:-1,#[COLOR orange]                                    Necesaria versión 0.3.5 de Palcotv [/COLOR],tvg-wall="https://4.bp.blogspot.com/-6D66zT_WBLo/VsZukYTKIcI/AAAAAAAAB2Q/MW2e1jdcK5c/s0-r/12700940642bae92e159610559b7d4b13e051ecb.jpg"
+
+#EXTINF:-1,#[COLOR yellow]                         Descargala en http://nanokodi.blogspot.com.es/ [/COLOR],tvg-wall="https://4.bp.blogspot.com/-6D66zT_WBLo/VsZukYTKIcI/AAAAAAAAB2Q/MW2e1jdcK5c/s0-r/12700940642bae92e159610559b7d4b13e051ecb.jpg"
+
+
+
+##EXTINF:-1,[COLOR red]App Android[/COLOR] [COLOR orange]Splive Player[/COLOR],tvg-wall="http://media.androidphoria.com/wp-content/uploads/Android-logo.jpg?11833a",tvg-logo="http://spliveplayer.net/wp-content/uploads/2015/04/splive-player-logo.png"
+##plugin://org.harddevelop.kodi.tv/?mode=4&amp;page=0&amp;provider=splive&amp;url=splive
+
+
+
+#EXTINF:-1,#[CR],tvg-wall="https://4.bp.blogspot.com/-6D66zT_WBLo/VsZukYTKIcI/AAAAAAAAB2Q/MW2e1jdcK5c/s0-r/12700940642bae92e159610559b7d4b13e051ecb.jpg",tvg-logo="http://i60.tinypic.com/6p2b8z.png"
+
+#EXTINF:-1,#[CR],tvg-wall="https://4.bp.blogspot.com/-6D66zT_WBLo/VsZukYTKIcI/AAAAAAAAB2Q/MW2e1jdcK5c/s0-r/12700940642bae92e159610559b7d4b13e051ecb.jpg",tvg-logo="http://i60.tinypic.com/6p2b8z.png"
+
+
+
+
+#EXTINF:-1,#[COLOR orange][B]                          Si te gustan mis aportes puedes donar a[/B][/COLOR],tvg-wall="https://caballerotrueno.files.wordpress.com/2013/05/gracias_multilingue.jpg",tvg-logo="https://caballerotrueno.files.wordpress.com/2013/05/gracias_multilingue.jpg"
+
+
+
+#EXTINF:-1,#[COLOR yellow]                               Paypal[/COLOR]     [COLOR red] nanobarrios77@gmail.com[/COLOR],tvg-logo="https://caballerotrueno.files.wordpress.com/2013/05/gracias_multilingue.jpg",tvg-wall="https://caballerotrueno.files.wordpress.com/2013/05/gracias_multilingue.jpg"
+
+
+
+#EXTINF:-1,#[CR],tvg-wall="https://4.bp.blogspot.com/-6D66zT_WBLo/VsZukYTKIcI/AAAAAAAAB2Q/MW2e1jdcK5c/s0-r/12700940642bae92e159610559b7d4b13e051ecb.jpg",tvg-logo="http://i60.tinypic.com/6p2b8z.png"
+
+
+#EXTINF:-1,#[CR],tvg-wall="https://4.bp.blogspot.com/-6D66zT_WBLo/VsZukYTKIcI/AAAAAAAAB2Q/MW2e1jdcK5c/s0-r/12700940642bae92e159610559b7d4b13e051ecb.jpg",tvg-logo="http://i60.tinypic.com/6p2b8z.png"
+
+#EXTINF:-1,[COLOR blue]PROGRAMACIÓN[/COLOR],tvg-wall="http://1.bp.blogspot.com/--hiFo96nWd4/UBD9d7PCl3I/AAAAAAAAAM8/B8IfNHZq9vs/s1600/guiat.png",tvg-logo="http://1.bp.blogspot.com/_YH683kawhoY/TRtsdua1ZBI/AAAAAAAAACM/3bteaeTb5yU/S1600-R/PROGRAMACION%2BTV.png"
+m3u:https://dl.dropboxusercontent.com/u/380436718/EPG.m3u
+
+#EXTINF:-1,[COLOR orangered]MOVISTAR[/COLOR] [COLOR red]TV[/COLOR],tvg-wall="https://4.bp.blogspot.com/-6D66zT_WBLo/VsZukYTKIcI/AAAAAAAAB2Q/MW2e1jdcK5c/s0-r/12700940642bae92e159610559b7d4b13e051ecb.jpg",tvg-logo="http://ipysvenezuela.org/wp-content/uploads/2015/09/movistar001.jpg"
+m3u:https://dl.dropboxusercontent.com/u/380436718/PrivadoNuevosPluses.m3u
+
+##EXTINF:-1,[COLOR aqua]TOTAL[/COLOR] [COLOR orange]PLAY[/COLOR],tvg-wall="https://4.bp.blogspot.com/-6D66zT_WBLo/VsZukYTKIcI/AAAAAAAAB2Q/MW2e1jdcK5c/s0-r/12700940642bae92e159610559b7d4b13e051ecb.jpg"tvg-logo="http://guiamexico.com.mx/Imagenes/m/204502800-1-totalplay.jpeg"
+##m3u:https://dl.dropboxusercontent.com/u/380436718/PrivadosTotalPlay.m3u
+
+#EXTINF:-1,[COLOR orangered]DEPORTES[/COLOR],tvg-wall="https://4.bp.blogspot.com/-6D66zT_WBLo/VsZukYTKIcI/AAAAAAAAB2Q/MW2e1jdcK5c/s0-r/12700940642bae92e159610559b7d4b13e051ecb.jpg",tvg-logo="http://www.fotosoimagenes.com/wp-content/uploads/2014/07/464254.jpg"
+m3u:https://dl.dropboxusercontent.com/u/380436718/PrivadoNuevosDeportes.m3u
+
+
+#EXTINF:-1,[COLOR blue]ZONA[/COLOR] [COLOR red] ACE STREAM[/COLOR],tvg-wall="https://4.bp.blogspot.com/-6D66zT_WBLo/VsZukYTKIcI/AAAAAAAAB2Q/MW2e1jdcK5c/s0-r/12700940642bae92e159610559b7d4b13e051ecb.jpg",tvg-logo="http://www.futbolfree.com/wp-content/uploads/2014/10/Descargar-AceStream.png"
+m3u:https://dl.dropboxusercontent.com/u/380436718/TorrentTV9demayo.m3u
+
+
+#EXTINF:-1,[COLOR orangered]TDT[/COLOR] [COLOR yellow] Y[/COLOR] [COLOR orangered] AUTONOMICAS[/COLOR],tvg-wall="https://4.bp.blogspot.com/-6D66zT_WBLo/VsZukYTKIcI/AAAAAAAAB2Q/MW2e1jdcK5c/s0-r/12700940642bae92e159610559b7d4b13e051ecb.jpg",tvg-logo="http://imagenes.es.sftcdn.net/es/scrn/69669000/69669067/tdtdirectotv.jaserdevelopments_1-700x419.jpg"
+m3u:https://dl.dropboxusercontent.com/u/380436718/PrivadaNuevaTDT.m3u
+
+#EXTINF:-1,[COLOR red]FM[/COLOR] [COLOR blue]RADIOS[/COLOR],tvg-wall="https://4.bp.blogspot.com/-6D66zT_WBLo/VsZukYTKIcI/AAAAAAAAB2Q/MW2e1jdcK5c/s0-r/12700940642bae92e159610559b7d4b13e051ecb.jpg",tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHMlpy9-BZYsKfu1NiWFIcPmr0J4osKMtJRZ97HIOaDsx0DUF3"
+m3u:https://dl.dropboxusercontent.com/u/380436718/RadiosFM.m3u
+
+
+#EXTINF:-1,[COLOR yellow]TOTAL[/COLOR][COLOR blue]PLAY[/COLOR],tvg-wall="https://4.bp.blogspot.com/-6D66zT_WBLo/VsZukYTKIcI/AAAAAAAAB2Q/MW2e1jdcK5c/s0-r/12700940642bae92e159610559b7d4b13e051ecb.jpg",tvg-logo="http://guiamexico.com.mx/Imagenes/m/204502800-1-totalplay.jpeg"
+m3u:https://dl.dropboxusercontent.com/u/380436718/NanoTotalPlay.m3u
+
+#EXTINF:-1,[COLOR white]YOU[/COLOR][COLOR red]TUBE[/COLOR],tvg-wall="https://4.bp.blogspot.com/-6D66zT_WBLo/VsZukYTKIcI/AAAAAAAAB2Q/MW2e1jdcK5c/s0-r/12700940642bae92e159610559b7d4b13e051ecb.jpg",tvg-logo="http://soytecno.com/wp-content/uploads/2016/01/youtube-logo-image.jpg"
+m3u:https://dl.dropboxusercontent.com/u/380436718/PrivadoYoutube.m3u
+
+#EXTINF:-1,[COLOR orangered]DOCUMENTALES[/COLOR],tvg-wall="https://4.bp.blogspot.com/-6D66zT_WBLo/VsZukYTKIcI/AAAAAAAAB2Q/MW2e1jdcK5c/s0-r/12700940642bae92e159610559b7d4b13e051ecb.jpg",tvg-logo="https://isakyn.files.wordpress.com/2015/07/docu.jpg"
+m3u:https://dl.dropboxusercontent.com/u/380436718/NanoKodiDocumentales.m3u
+
+
+#EXTINF:-1,[COLOR orangered]PALCO[/COLOR] [COLOR orange]CINE[/COLOR],tvg-wall="https://4.bp.blogspot.com/-6D66zT_WBLo/VsZukYTKIcI/AAAAAAAAB2Q/MW2e1jdcK5c/s0-r/12700940642bae92e159610559b7d4b13e051ecb.jpg",tvg-logo="https://delavidamisma.files.wordpress.com/2011/06/cine.jpg"
+m3u:https://dl.dropboxusercontent.com/u/380436718/PelisPalco.m3u
+
+#EXTINF:-1,[COLOR orangered]PALCO[/COLOR] [COLOR yellow]SERIES[/COLOR],tvg-wall="https://4.bp.blogspot.com/-6D66zT_WBLo/VsZukYTKIcI/AAAAAAAAB2Q/MW2e1jdcK5c/s0-r/12700940642bae92e159610559b7d4b13e051ecb.jpg",tvg-logo="http://www.elcineenlasombra.com/wp-content/uploads/2015/12/Series-TV-.jpg"
+m3u:https://dl.dropboxusercontent.com/u/380436718/PrivadaSeriesNanito.m3u
+
+
+#EXTINF:-1,[COLOR orangered]KODI[/COLOR] [COLOR aqua]TUTORIALES[/COLOR],tvg-wall="https://4.bp.blogspot.com/-6D66zT_WBLo/VsZukYTKIcI/AAAAAAAAB2Q/MW2e1jdcK5c/s0-r/12700940642bae92e159610559b7d4b13e051ecb.jpg",tvg-logo="https://co2p.files.wordpress.com/2014/08/kodi.jpg"
+m3u:https://dl.dropboxusercontent.com/u/380436718/Tutorialeskodi.m3u
+
+
+#EXTINF:-1,[COLOR orangered]ZONA INFANTIL[/COLOR],tvg-wall="https://4.bp.blogspot.com/-6D66zT_WBLo/VsZukYTKIcI/AAAAAAAAB2Q/MW2e1jdcK5c/s0-r/12700940642bae92e159610559b7d4b13e051ecb.jpg",tvg-logo="https://public.blu.livefilestore.com/y1pg-YOV83F7N-aW2q1-HKdKsAtBTWbe-b0cNmOoY8uF13ti6Nu7NBJStQUGwDvO--ibspBPRUm-k8aBynnaF11SQ/wallpaper_mickey2_1600x1200.jpg?psid=1"
+m3u:https://dl.dropboxusercontent.com/u/380436718/ZonaPeques.m3u
+
+#EXTINF:-1,[COLOR orangered]MUSIC CHANNELS[/COLOR],tvg-wall="https://4.bp.blogspot.com/-6D66zT_WBLo/VsZukYTKIcI/AAAAAAAAB2Q/MW2e1jdcK5c/s0-r/12700940642bae92e159610559b7d4b13e051ecb.jpg",tvg-logo="http://1.bp.blogspot.com/-KZ4b_Nc9yW8/VqPZf0k9sCI/AAAAAAAAAaE/L35-0evzHiw/s1600/music.png"
+m3u:https://dl.dropboxusercontent.com/u/380436718/PrivadaZonaMusica.m3u
+
+
+##EXTINF:-1,[COLOR aqua]MUNDO TV[/COLOR],tvg-wall="https://4.bp.blogspot.com/-6D66zT_WBLo/VsZukYTKIcI/AAAAAAAAB2Q/MW2e1jdcK5c/s0-r/12700940642bae92e159610559b7d4b13e051ecb.jpg",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/OTVbelweder-front.jpg/250px-OTVbelweder-front.jpg"
+##m3u:https://dl.dropboxusercontent.com/u/380436718/mundotv.m3u
+
+#EXTINF:-1,[COLOR orangered]SALA[/COLOR] [COLOR red] X[/COLOR],tvg-wall="https://4.bp.blogspot.com/-6D66zT_WBLo/VsZukYTKIcI/AAAAAAAAB2Q/MW2e1jdcK5c/s0-r/12700940642bae92e159610559b7d4b13e051ecb.jpg",tvg-logo="http://vaporizar.com/wp-content/uploads/2014/05/18+.png"
+m3u:https://dl.dropboxusercontent.com/u/380436718/SalaX.m3u
+
+#EXTINF:-1,[COLOR orangered]LISTAS AMIGAS [/COLOR],tvg-wall="https://4.bp.blogspot.com/-6D66zT_WBLo/VsZukYTKIcI/AAAAAAAAB2Q/MW2e1jdcK5c/s0-r/12700940642bae92e159610559b7d4b13e051ecb.jpg",tvg-logo="http://elmeme.me/static/uploads/images/2015/03/81820/81820_main_full.jpg"
+m3u:https://dl.dropboxusercontent.com/u/380436718/AmigosDeNano.m3u

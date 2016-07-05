@@ -1,0 +1,220 @@
+﻿#EXTM3U
+
+
+
+
+#EXTINF:-1,Canal 0#
+rtmp://www1.iguide.to/iguide playpath=6ztb3u18p5s68ll swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30323&autoplay=true token=#ed%h0#w18623jsda6523lDGD
+
+
+#EXTINF:-1,Canal+ Estrenos
+rtmp://www1.iguide.to/iguide playpath=oqlqntk3lt0tcz4 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30323&autoplay=true token=#ed%h0#w18623jsda6523lDGD 
+
+
+#EXTINF:-1,Canal+ Acción
+rtmp://www1.iguide.to/iguide playpath=qyxepg6xttc83as swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30323&autoplay=true token=#ed%h0#w18623jsda6523lDGD
+
+
+
+#EXTINF:-1,Canal+ Comedia
+rtmp://www1.iguide.to/iguide playpath=t6zehd5sg0oehhq swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30323&autoplay=true token=#ed%h0#w18623jsda6523lDGD
+
+
+
+#EXTINF:-1,Canal+ Dcine
+rtmp://www1.iguide.to/iguide playpath=y6y6vfv2sxxot0n swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30323&autoplay=true token=#ed%h0#w18623jsda6523lDGD
+
+
+
+#EXTINF:-1,TCM
+rtmp://youfuckyourmominherass.iguide.to/iguide playpath=mze2zn8i8o5sl9s swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=32735&autoplay=true token=#ed%h0#w18623jsda6523lDGD
+
+
+#EXTINF:-1,Canal + Series Xtra
+rtmp://www1.iguide.to/iguide playpath=62sn73q6cjfaq1l swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30323&autoplay=true token=#ed%h0#w18623jsda6523lDGD
+
+
+
+#EXTINF:-1,Canal + Series
+rtmp://www1.iguide.to/iguide playpath=203cy9bnzp1kcm9 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30323&autoplay=true token=#ed%h0#w18623jsda6523lDGD
+
+
+
+#EXTINF:-1,Hollywood
+rtmp://youfuckyourmominherass.iguide.to/iguide playpath=g14tfn5k0uso0om swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=32732&autoplay=true token=#ed%h0#w18623jsda6523lDGD
+
+
+
+#EXTINF:-1,Fox
+rtmp://www1.iguide.to/iguide playpath=7hgj3pw3pvieqh9 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30323&autoplay=true token=#ed%h0#w18623jsda6523lDGD 
+
+
+#EXTINF:-1,Fox Life
+rtmp://www1.iguide.to/iguide playpath=o3m2hhbrqqux0ks swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30323&autoplay=true token=#ed%h0#w18623jsda6523lDGD 
+
+
+
+#EXTINF:-1,TNT
+rtmp://www1.iguide.to/iguide playpath=nh4259fy0kikqbk swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30323&autoplay=true token=#ed%h0#w18623jsda6523lDGD   
+
+
+
+#EXTINF:-1,TNT Series SD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL266/PROFILE03.m3u8
+
+
+
+#EXTINF:-1,TNT Series HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL266/PROFILE05.m3u8
+
+
+#EXTINF:-1,AXN
+rtmp://www1.iguide.to/iguide playpath=bi3y8fxntkbf1ss swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30323&autoplay=true token=#ed%h0#w18623jsda6523lDGD
+
+
+
+#EXTINF:-1,AXN White
+rtmp://31.220.0.187/privatestream/ playpath=axnwh?keys=cxgesHSX0RL5EgQ_g-bVMQ&keyt=1462299702 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/player?streamname=axnwh&width=800&height=600
+
+
+
+#EXTINF:-1,A&E
+rtmp://nl.iguide.to/iguide playpath=a94301d9dma2hc8 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30323&autoplay=true token=#ed%h0#w18623jsda6523lDGD
+
+
+
+#EXTINF:-1,Calle 13
+rtmp://www1.iguide.to/iguide playpath=6m603pnal2zoycy swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30323&autoplay=true token=#ed%h0#w18623jsda6523lDGD
+
+
+#EXTINF:-1,Syfy
+rtmp://www1.iguide.to/iguide playpath=mze2zn8i8o5sl9s swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30323&autoplay=true token=#ed%h0#w18623jsda6523lDGD 
+
+
+#EXTINF:-1,Canal cocina
+rtmp://31.220.40.63/privatestream/ playpath=cocinach?keys=xhU0t9d1sEYHeBpF-j7IbQ&keyt=1462304203 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/player?streamname=cocinach&width=800&height=600
+
+
+
+#EXTINF:-1,Historia
+rtmp://31.220.40.61/privatestream/ playpath=historiaa?keys=JPrKaaB-78Aum-6cbFL6-w&keyt=1462303192 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/player?streamname=historiaa&width=800&height=600
+
+
+
+#EXTINF:-1,Discovery Channel
+rtmp://31.220.40.60/privatestream/ playpath=channeldisc?keys=hIuq333SBfXPQVilCJ2qgw&keyt=1462337589 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/player?streamname=channeldisc&width=800&height=600
+
+
+
+#EXTINF:-1,National geographic channel
+rtmp://www1.iguide.to/iguide playpath=wxinkrd3hz9tmm5 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30323&autoplay=true token=#ed%h0#w18623jsda6523lDGD
+
+
+
+#EXTINF:-1,Nat Geo Wild
+rtmp://www1.iguide.to/iguide playpath=g56e7s9ox08kada swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30323&autoplay=true token=#ed%h0#w18623jsda6523lDGD
+
+
+#EXTINF:-1,MTV España
+rtmp://31.220.40.59/privatestream/ playpath=mmtvv?keys=8eFI4koWQV7LkREC8Sp-lQ&keyt=1462338035 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/player?streamname=mmtvv&width=800&height=600
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
